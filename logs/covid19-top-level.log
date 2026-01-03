@@ -1,0 +1,28 @@
+                           PRE alleninstitute/
+                           PRE archived/
+                           PRE aspirevc_crowd_tracing/
+                           PRE cdc-moderna-vaccine-distribution/
+                           PRE cdc-pfizer-vaccine-distribution/
+                           PRE cfn/
+                           PRE covid_knowledge_graph/
+                           PRE covidcast/
+                           PRE enigma-aggregation/
+                           PRE enigma-jhu-timeseries/
+                           PRE enigma-jhu/
+                           PRE enigma-nytimes-data-in-usa/
+                           PRE owid_vaccinations/
+                           PRE rearc-covid-19-nyt-data-in-usa/
+                           PRE rearc-covid-19-prediction-models/
+                           PRE rearc-covid-19-testing-data/
+                           PRE rearc-covid-19-world-cases-deaths-testing/
+                           PRE rearc-usa-hospital-beds/
+                           PRE safegraph-open-census-data/
+                           PRE static-datasets/
+                           PRE static/
+                           PRE tableau-covid-datahub/
+                           PRE tableau-jhu/
+                           PRE uk_covid/
+2021-04-16 12:42:43       9328 dashboard.html
+2021-04-16 12:42:43      23116 databrowser.html
+2021-04-16 12:42:44      23116 index.html
+2021-04-16 12:42:44      11968 query.html
